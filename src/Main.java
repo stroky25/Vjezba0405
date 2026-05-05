@@ -8,6 +8,7 @@ public class Main {
             System.out.println ("Mjesec: "+ dt.getMonth());
             System.out.println ("Sat: "+ dt.getHour());
             System.out.println ("Sekunde: "+ dt.getSecond());
-            System.out.println ("Vrijeme ukupno: "+ dt());               
+            System.out.println ("Vrijeme ukupno: "+ dt());  
+            System.out.println ("Završni redak");
     }
 }
